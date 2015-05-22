@@ -1,0 +1,28 @@
+body {
+  background-image: url("files/background.png")!important;
+}
+
+header {
+  background-color: darkslategrey;
+  height: 170px;
+  border: 1px solid lightslategray;
+}
+
+#logo {
+  height: 60%;
+  margin-left: 15px;
+  margin-top: 30px;
+  border: 1px solid lightslategray;
+  padding: 1px;
+  float: left;
+}
+
+#title {
+  float: left;
+  font-size: xx-large;
+  font-family: Tahoma, Geneva, sans-serif;
+  margin-left: 50px;
+  margin-top: 70px;
+  color: #fff;
+  font-weight: 400;
+}
