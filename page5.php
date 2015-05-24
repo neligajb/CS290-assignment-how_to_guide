@@ -14,7 +14,8 @@ function page5() { ?>
   <p>Node ships with many pre-defined modules known as the <em>
       <a href="https://nodejs.org/docs/v0.4.12/api/" target="_blank" title="Node core modules">Core Modules</a></em>.</p>
   <p>There are too many to list here, but one of the most commonly used modules is HTTP, which can be used to set
-  up a basic web sever! The syntax for including HTTP is <code>var http = require('http')</code>.  It is common
-  practice to store the module in a variable of the same name.</p>
+  up a basic web sever! The syntax for including HTTP is <code>var http = require('http')</code>. Note that
+    when including a Core Module, the './' is omitted from the parameter. This tells Node to look for a Core Module
+    and not a custom one stored in our file system. It is common practice to store the module in a variable of the same name.</p>
   <p><br>Next, we will see how to use the HTTP module to <a href="?page=6" title="page 6">set up a simple web server</a>.</p>
 <?php } ?>

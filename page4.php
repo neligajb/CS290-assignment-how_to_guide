@@ -8,7 +8,7 @@ function page4() { ?>
   <p>First, we export the <code>restaurant()</code> function from restaurant.js, and store it in the variable called
   <code>price</code>. The full code is <code>module.exports.price = restaurant;</code></p>
   <p><img src="files/module-export.png" ></p>
-  <p>Next, we <code>require</code> restaurant.js in app.js, and store the result the variable called <code>meal</code>.
+  <p>Next, we <code>require</code> restaurant.js in app.js, and store the result in the variable called <code>meal</code>.
   This allows us to access the <code>restaurant()</code> function using the variable called <code>price</code>.</p>
   <p><img src="files/module-require.png" ></p>
   <p>Note the output of our original <code>restaurant()</code> function in the console window.</p>
