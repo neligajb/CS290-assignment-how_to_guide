@@ -1,5 +1,7 @@
 body {
   background-image: url("files/background.png")!important;
+  font-family: Tahoma, Geneva, sans-serif;
+  color: #fff;
 }
 
 header {
@@ -22,7 +24,47 @@ header {
   font-size: xx-large;
   font-family: Tahoma, Geneva, sans-serif;
   margin-left: 50px;
-  margin-top: 70px;
+  margin-top: 60px;
   color: #fff;
   font-weight: 400;
+}
+
+#content {
+  width: 64%;
+  float: left;
+  margin-right: 3%;
+  margin-left: 2%;
+}
+
+#content a {
+  color: antiquewhite;
+}
+
+#content a:visited {
+  color: cornflowerblue;
+}
+
+#nav-bar {
+  width: 30%;
+  float: left;
+  border: 1px solid lightslategray;
+  margin-top: 15px;
+  background-color: cornflowerblue;
+}
+
+#nav-bar > ul {
+  margin-left: 3px;
+}
+
+#nav-bar > ul > li {
+  margin-bottom: 3px;
+}
+#wiki-snippet {
+  border: 1px solid lightslategray;
+}
+
+#wiki-snippet > p {
+  margin-left: 3%;
+  margin-right: 3%;
+  font-style: italic;
 }
