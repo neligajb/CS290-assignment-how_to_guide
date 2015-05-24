@@ -1,7 +1,7 @@
 <?php
 
 function page4() { ?>
-  <h2>Requiring <em>modules</em></h2>
+  <h2>Modules basics - <em>requiring modules</em></h2>
   <p>Modules are essentially a way to <em>include</em> files and/or functions in another file. They provide a way
     for external libraries to be used in your application.</p>
   <p>The following screen shots demonstrate a simple example of how to use the Node global object <code>exports</code>.</p>
@@ -12,4 +12,6 @@ function page4() { ?>
   This allows us to access the <code>restaurant()</code> function using the variable called <code>price</code>.</p>
   <p><img src="files/module-require.png" ></p>
   <p>Note the output of our original <code>restaurant()</code> function in the console window.</p>
+  <p><br>Next, we'll explore how to access Node's most popular modules using a
+    <a href="?page=5" title="page 5" >package manager</a>.</p>
 <?php } ?>

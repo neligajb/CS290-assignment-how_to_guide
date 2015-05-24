@@ -49,16 +49,24 @@ header {
   float: left;
   border: 1px solid lightslategray;
   margin-top: 70px;
-  background-color: cornflowerblue;
+  background-color: darkslategrey;
 }
 
+#nav-bar a {
+  color: burlywood;
+}
+
+#nav-bar a:visited {
+  color: blanchedalmond;
+}
 
 #nav-bar > ul {
   margin-left: 3px;
 }
 
 #nav-bar > ul > li {
-  margin-bottom: 3px;
+  margin-bottom: 8px;
+  list-style-type: square;
 }
 
 #wiki-snippet {
@@ -76,5 +84,16 @@ code {
   background-color: darkgray;
   padding-left: 3px;
   padding-right: 3px;
-  border-radius: 50px;
+  border: 1px solid lightslategray;
+}
+
+img {
+  border: 1px solid lightslategray;
+}
+
+footer {
+  clear: both;
+  font-size: smaller;
+  color: dimgrey;
+  opacity: 0.3;
 }

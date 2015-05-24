@@ -6,12 +6,12 @@ function page2() { ?>
   <p>The source code is made available and requires Python to build the program, and there are also reliable pre-built
     installers for Windows and OS X.
   <p><a href="https://nodejs.org/download/" target="_blank" title="Download Page" >node.JS Download Page</a></p>
-  <p>This tutorial will also be geared for use with the
+  <p>This tutorial is also geared for use with the
     <a href="https://www.jetbrains.com/" target="_blank" title="JetBrains"> JetBrains</a> IDE,
     <a href="https://www.jetbrains.com/webstorm/" target="_blank" title="WebStorm"> WebStorm</a>. Plain text editors
   will work fine with node.JS, but WebStorm provides some built in tools that make developing node.JS applications
-  a snap! Individual licenses for WebStorm can be purchased for $49, and there is also a 30 day free trial option.
-  (JetBrains offers free access to <a href="https://www.jetbrains.com/student/" target="_blank" title="student's page">
+  a snap! (Individual licenses for WebStorm can be purchased for $49, and there is a 30 day free trial option.
+  JetBrains also offers free access to <a href="https://www.jetbrains.com/student/" target="_blank" title="student's page">
     students and teachers</a>!)</p>
   <p><br>Once everything is installed, you can start a New Project in WebStorm! The IDE should have the Node.JS plugin
   already enabled, but you can verify this by opening Preferences -> Plugins.</p>

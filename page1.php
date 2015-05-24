@@ -2,7 +2,7 @@
 
 function page1() { ?>
 <h2>What is node.JS?</h2>
-      <p>node.JS is a server side scripting language that can be used as an alternative to traditional
+      <p>node.JS is a JavaScript based server side scripting tool that can be used as an alternative to traditional
         server-side languages, like PHP.</p>
       <h4>From Wikipedia:</h4>
       <div id="wiki-snippet">
