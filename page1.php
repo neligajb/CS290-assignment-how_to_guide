@@ -39,5 +39,5 @@ function page1() { ?>
           <a href="http://en.wikipedia.org/wiki/GoDaddy" target="_blank" title="GoDaddy">GoDaddy</a>.
         </p>
       </div>
-      <h4>In order to use node.JS, a local copy will need to be <a href="?page=2" title="page 2">installed...</h4>
+      <p><br>In order to use node.JS, a local copy will need to be <a href="?page=2" title="page 2">installed...</p>
 <?php } ?>

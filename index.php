@@ -23,6 +23,8 @@ error_reporting(E_ALL);
     <ul>
       <li><a href="?page=1" title="page 1">Introduction to node.JS</a></li>
       <li><a href="?page=2" title="page 2">Getting set up</a></li>
+      <li><a href="?page=3" title="page 3">Creating an app</a></li>
+      <li><a href="?page=4" title="page 4">Using modules</a></li>
     </ul>
   </div>
 </body>

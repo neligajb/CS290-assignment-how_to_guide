@@ -37,20 +37,21 @@ header {
 }
 
 #content a {
-  color: antiquewhite;
+  color: burlywood;
 }
 
 #content a:visited {
-  color: cornflowerblue;
+  color: blanchedalmond;
 }
 
 #nav-bar {
   width: 30%;
   float: left;
   border: 1px solid lightslategray;
-  margin-top: 15px;
+  margin-top: 70px;
   background-color: cornflowerblue;
 }
+
 
 #nav-bar > ul {
   margin-left: 3px;
@@ -59,12 +60,21 @@ header {
 #nav-bar > ul > li {
   margin-bottom: 3px;
 }
+
 #wiki-snippet {
-  border: 1px solid lightslategray;
+  border: 2px solid lightslategray;
 }
 
 #wiki-snippet > p {
   margin-left: 3%;
   margin-right: 3%;
   font-style: italic;
+}
+
+code {
+  font-size: large;
+  background-color: darkgray;
+  padding-left: 3px;
+  padding-right: 3px;
+  border-radius: 50px;
 }
