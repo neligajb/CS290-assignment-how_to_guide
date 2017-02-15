@@ -12,8 +12,8 @@ function page2() { ?>
   will work fine with node.JS, but WebStorm provides some built in tools that make developing node.JS applications
   a snap! (Individual licenses for WebStorm can be purchased for $49, and there is a 30 day free trial option.
   JetBrains also offers free access to <a href="https://www.jetbrains.com/student/" target="_blank" title="student's page">
-    students and teachers</a>!)</p>
-  <p><br>Once everything is installed, you can start a New Project in WebStorm! The IDE should have the NodeJS plugin
+    students and teachers</a>.)</p>
+  <p><br>Once everything is installed, you can start a New Project in WebStorm. The IDE should have the NodeJS plugin
   already enabled, but you can verify this by opening Preferences -> Plugins.</p>
   <p><img src="files/ws-preferences.png" width="600"></p>
   <p>You should also verify that WebStorm knows where to find your Node interpreter:</p>

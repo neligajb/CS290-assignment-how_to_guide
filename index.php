@@ -30,7 +30,7 @@ error_reporting(E_ALL);
     </ul>
   </div>
   <footer>
-    <p><br><br>Copyright 2015 - Boone Neligan</p>
+    <p><br><br>Copyright 2017 - Boone Neligan</p>
   </footer>
 </body>
 </html>

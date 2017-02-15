@@ -17,7 +17,7 @@ function page6() { ?>
   </ul>
   <p><br><img src="files/node-web-server.png" width="780" ></p>
   <p>Running the code will start up the server, and then we point a browser to http://localhost:8080 to see our
-  server's response!</p>
+  server's response.</p>
   <p><br>This concludes the tutorial, but hopefully this brief introduction to node.JS has given you the foundation to
     begin programming with this fantastic tool!</p>
 
